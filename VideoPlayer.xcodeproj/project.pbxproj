@@ -36,6 +36,7 @@
 		65450EFC1B69FA130088829F /* VideoPlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoPlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65450F011B69FA130088829F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65450F021B69FA130088829F /* VideoPlayerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerTests.swift; sourceTree = "<group>"; };
+		65450F0C1B69FCE80088829F /* Intro.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Intro.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		65450EE91B69FA120088829F /* VideoPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				65450F0C1B69FCE80088829F /* Intro.mp4 */,
 				65450EEC1B69FA120088829F /* AppDelegate.swift */,
 				65450EEE1B69FA120088829F /* ViewController.swift */,
 				65450EF01B69FA120088829F /* Main.storyboard */,
